@@ -3,7 +3,7 @@ Hi, I'm Jocelyn, and this was my first project with HTML.
 This is a personalized birthday card that has an adorable cake animation 
 
 # 🥳 WHY I LOVE THIS PROJECT
-I used this as a digital card for my dad, and he loved it 
+I used this as a digital card for my dad, and he loved it. 
 It was the perfect way to say happy birthday without a physical card, but a memory he could keep forever ❤️
 
 <p align="center">
