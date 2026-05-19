@@ -1,5 +1,5 @@
 # 🧁 HAPPY BIRTHDAY :)
-Hi, I'm Jocelyn, and this was my first project with HTML
+Hi, I'm Jocelyn, and this was my first project with HTML.
 This is a personalized birthday card that has an adorable cake animation 
 
 # 🥳 WHY I LOVE THIS PROJECT
