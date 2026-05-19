@@ -1,18 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Jocelyn's Birthday Card</title>
-</head>
-<body>
+# 🧁 HAPPY BIRTHDAY :)
+Hi, I'm Jocelyn, and this was my first project with HTML
+This is a personalized birthday card that has an adorable cake animation 
 
-    <h1>Hi, welcome to Jocelyn's birthday card!</h1>
-    
-    <p>This was my first ever project using HTML, and I wanted to share it with the world.</p>
-    
-    <img width="1080" height="1080" alt="Birthday Card Image" src="https://github.com/user-attachments/assets/9d283953-f18f-41a6-a9b7-16...">
-    
-    <img src="your-image.png" width="300" alt="Image Description">
+# 🥳 WHY I LOVE THIS PROJECT
+I used this as a digital card for my dad, and he loved it 
+It was the perfect way to say happy birthday without a physical card, but a memory he could keep forever ❤️
 
-</body>
-</html>
-<img width="1080" height="1080" alt="8809fbdd4eb9e155257bb3068b94aa40" src="https://github.com/user-attachments/assets/9d283953-f18f-41a6-a9b7-162c7b1c01a2" />
+<p align="center">
+<img width="150" height="150" alt="8809fbdd4eb9e155257bb3068b94aa40" src="https://github.com/user-attachments/assets/9d283953-f18f-41a6-a9b7-162c7b1c01a2" />
+</p>
